@@ -17,5 +17,4 @@ Personal Claude skills for solo software/ML engineering and academic research.
 ## Notes
 
 The `9arm-skills-tailored` skills are personalized versions of 9arm's originals — same core discipline, adapted defaults and triggers for solo/indie context. Each skill's `SKILL.md` holds its own trigger conditions and workflow.
-# kim-skill
-# kim-skill
+
